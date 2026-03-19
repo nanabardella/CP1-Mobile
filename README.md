@@ -48,6 +48,8 @@ O **BOOKY** é um aplicativo mobile desenvolvido com **React Native** e **Expo**
 ## 🎥 Demonstração
  
 Vídeo no Youtube:
+
+https://youtu.be/SdKlsuxj_9U?si=XP9JTf1276_A-f0x
  
 ---
  
