@@ -30,7 +30,7 @@ O **BOOKY** é um aplicativo mobile desenvolvido com **React Native** e **Expo**
  
 - React Native
 - Expo
-- JavaScript / TypeScript
+- JavaScript
 - Hooks:
   - `useState`
   - `useEffect`
